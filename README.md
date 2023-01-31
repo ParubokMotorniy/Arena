@@ -1,5 +1,5 @@
 # Arena⚔
-A game mostly focused on a **combat system and basic ledge climbing mechanics**.
+A game mostly focused on a ***combat system and basic ledge climbing mechanics***.
 
 This creation stands out thanks to such mechanics and features:
 - blending between different types of cameras (state-based, free-look, group...) 
@@ -10,9 +10,9 @@ This creation stands out thanks to such mechanics and features:
 - ragdolls
 - immersive scene
 
-[Check out the gameplay](GameplayPreview.mp4)
+[Check out the gameplay here.](https://youtu.be/WLP9bbdt2fw)
 
-Please **note** that I do not author any visual assets used in this project.
+Please ***note*** that I do not author any visual assets used in this project.
 
 Brief instructions:
 - Click left mouse button to perform a single attack
