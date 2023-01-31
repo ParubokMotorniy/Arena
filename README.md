@@ -10,6 +10,8 @@ This creation stands out thanks to such mechanics and features:
 - ragdolls
 - immersive scene
 
+[Check out the gameplay](GameplayPreview.mp4)
+
 Please **note** that I do not author any visual assets used in this project.
 
 Brief instructions:
